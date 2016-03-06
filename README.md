@@ -6,7 +6,7 @@ Let's assume that the test room is a 10 by 10 meters room (100 square meters) wi
 First a distance estimation is necessary for all the WiFi APs. 
 In order to get these distances you need to have the observed RSS (Received Signal Strength) vector containing all the WiFi RSS values for all WiFi APs.
 
-Example of an input vector:
+Example of an input vector.
 If you are in position (3, 4.5):
 ```
 -53.6   %from AP1
