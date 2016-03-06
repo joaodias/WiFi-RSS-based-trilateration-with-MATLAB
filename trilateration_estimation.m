@@ -9,12 +9,10 @@
 %              real2 - y coordinate of the known position
 %              min_X - minimum X coordinate of the dataset
 %              max_X - maximum X coordinate of the dataset
-%              min_Y - minimum X coordinate of the dataset
+%              min_Y - minimum Y coordinate of the dataset
 %              max_Y - maximum Y coordinate of the dataset
 %
 %     OUTPUTS: Estimated position (x, y) 
-%
-%  REFERENCES: http://goo.gl/cGXmDw
 %
 %--------------------------------------------------------------------------
 
