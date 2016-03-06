@@ -4,10 +4,10 @@
 %              unknown position based on the observed WiFi RSS usign the 
 %              FSPL (Free Space Path Loss) propagation model
 %
-%      INPUTS: Observed WiFi RSS (related to an access point)
+%      INPUTS: Observed WiFi RSS vector(related to an access point)
 %
-%	  OUTPUTS: Estimated distance between the unknown position and the 
-%              given access point 
+%     OUTPUTS: Estimated distances vector between the unknown position and 
+%              the APs (access points) 
 %
 %  REFERENCES: http://goo.gl/cGXmDw
 %
