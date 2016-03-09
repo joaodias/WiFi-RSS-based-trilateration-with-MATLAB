@@ -16,6 +16,6 @@
 function [ d ] = distance( RSS )
 	result = (27.55 - (20 * log10(2400)) + abs(RSS)) / 20;
 	d = power(10, result);
-    d = transpose(d);
+        d = transpose(d);
 end
 
